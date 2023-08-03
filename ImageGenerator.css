@@ -1,0 +1,33 @@
+/* .container{
+    height: 1000px;
+    width: 700;
+    background-color: rgb(4, 0, 255);
+} */
+
+
+img{
+
+    height: 550px;
+    width: 550px;
+    text-align:left;
+}
+
+body{
+    height: 1200px;
+    width: 900;
+    background-color: rgb(36, 88, 15);
+}
+
+.divImage{
+    
+    text-align: center;
+}
+button{
+    height: 80px;
+    width: 260px;
+    border-radius: 14px;
+    background-color: rgb(62, 62, 107);
+}
+button:hover{
+    background-color: brown;
+}
